@@ -1,6 +1,6 @@
-serviceName: serviceusiminas1
-applicationPlanName: aplicationplanusiminas1
-applicationName: aplicationusiminas1
+serviceName: serviceusiminas2
+applicationPlanName: aplicationplanusiminas2
+applicationName: aplicationusiminas2
 ipa: true
 cub: true
 backend: 
