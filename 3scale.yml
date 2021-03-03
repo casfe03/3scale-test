@@ -1,6 +1,6 @@
-serviceName: serviceusiminas26_hml
-applicationPlanName: aplicationplanusiminas26_hml
-applicationName: aplicationusiminas26_hml
+serviceName: serviceusiminas1_hml
+applicationPlanName: aplicationplanusiminas1_hml
+applicationName: aplicationusiminas1_hml
 remoteHost: 3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
 ipa: false
 cub: true
