@@ -1,8 +1,9 @@
-serviceName: service2
-applicationPlanName: aplicationplan
-applicationName: aplication2
-ipa: true
+serviceName: serviceusiminas24
+applicationPlanName: aplicationplanusiminas24
+applicationName: aplicationusiminas24
+ipa: false
 cub: true
+promote: true
 backend: 
   <proxy>
   <service_id>51</service_id>
