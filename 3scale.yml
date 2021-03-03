@@ -1,6 +1,6 @@
-serviceName: serviceusiminas25-hml
-applicationPlanName: aplicationplanusiminas25-hml
-applicationName: aplicationusiminas25-hml
+serviceName: serviceusiminas25_hml
+applicationPlanName: aplicationplanusiminas25_hml
+applicationName: aplicationusiminas25_hml
 ipa: false
 cub: true
 promote: true
