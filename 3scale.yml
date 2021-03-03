@@ -1,6 +1,6 @@
-serviceName: serviceusiminas20
-applicationPlanName: aplicationplanusiminas20
-applicationName: aplicationusiminas20
+serviceName: serviceusiminas21
+applicationPlanName: aplicationplanusiminas21
+applicationName: aplicationusiminas21
 ipa: false
 cub: true
 promote: true
