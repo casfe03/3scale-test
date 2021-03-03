@@ -1,7 +1,7 @@
 serviceName: serviceusiminas15
 applicationPlanName: aplicationplanusiminas15
 applicationName: aplicationusiminas15
-ipa: true
+ipa: false
 cub: true
 promote: true
 backend: 
