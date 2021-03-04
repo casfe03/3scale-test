@@ -1,43 +1,5 @@
-serviceName: testecubipaservice3
-applicationPlanName: testecubipaaplicationplan3
-applicationName: testecubipaaplication3
-remoteHostCub: https://3scale-admin.apicub.usiminas.com
-remoteHostIpa: https://3scale-admin.apiipa.usiminas.com 
 ipa: true
 cub: true
 promote: true
 backend: 
-  <proxy>
-  <service_id>51</service_id>
-  <endpoint>https://prodtestedeupdate.com.br:443</endpoint>
-  <api_backend>https://backendtestedeupdate.com.br:443</api_backend>
-  <credentials_location>query</credentials_location>
-  <auth_app_key>app_key</auth_app_key>
-  <auth_app_id>app_id</auth_app_id>
-  <auth_user_key>user_key</auth_user_key>
-  <error_auth_failed>Authentication failed</error_auth_failed>
-  <error_auth_missing>Authentication parameters missing</error_auth_missing>
-  <error_status_auth_failed>403</error_status_auth_failed>
-  <error_headers_auth_failed>text/plain; charset=us-ascii</error_headers_auth_failed>
-  <error_status_auth_missing>403</error_status_auth_missing>
-  <error_headers_auth_missing>text/plain; charset=us-ascii</error_headers_auth_missing>
-  <error_no_match>No Mapping Rule matched</error_no_match>
-  <error_status_no_match>404</error_status_no_match>
-  <error_headers_no_match>text/plain; charset=us-ascii</error_headers_no_match>
-  <error_limits_exceeded>Usage limit exceeded</error_limits_exceeded>
-  <error_status_limits_exceeded>429</error_status_limits_exceeded>
-  <error_headers_limits_exceeded>text/plain; charset=us-ascii</error_headers_limits_exceeded>
-  <secret_token>Shared_secret_sent_from_proxy_to_API_backend_fa28007df6fe8e4a</secret_token>
-  <hostname_rewrite/>
-  <sandbox_endpoint>https://sandboxtestedeupdate.com.br:443</sandbox_endpoint>
-  <api_test_path>/</api_test_path>
-  <policies_config>[{"name"=&gt;"apicast", "humanName"=&gt;"APIcast policy", "description"=&gt;"Main functionality of APIcast.", "configuration"=&gt;{}, "version"=&gt;"builtin", "enabled"=&gt;true, "removable"=&gt;false, "id"=&gt;"apicast-policy"}]</policies_config>
-  <created_at>2021-02-26 14:30:18 UTC</created_at>
-  <updated_at>2021-02-26 15:02:34 UTC</updated_at>
-  <deployment_option>self_managed</deployment_option>
-  <lock_version>4</lock_version>
-  <oidc_issuer_endpoint>https://oidctestedeupdate.com.br</oidc_issuer_endpoint>
-  <oidc_issuer_type>keycloak</oidc_issuer_type>
-  <jwt_claim_with_client_id>azp</jwt_claim_with_client_id>
-  <jwt_claim_with_client_id_type>plain</jwt_claim_with_client_id_type>
-  </proxy>
+  api_backend: https://backendtestedeupdate.com.br:443
