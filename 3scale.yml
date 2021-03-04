@@ -4,7 +4,7 @@ applicationName: testecubipaaplication1
 remoteHostCub: 3scale-admin.apicub.usiminas.com1
 remoteHostIpa: 3scale-admin.apiipa.usiminas.com 
 ipa: true
-cub: false
+cub: true
 promote: true
 backend: 
   <proxy>
