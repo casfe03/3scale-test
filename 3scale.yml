@@ -3,8 +3,8 @@ applicationPlanName: aplicationplanusiminas1_hml
 applicationName: aplicationusiminas1_hml
 remoteHostCub: 3scale-admin.apicub.usiminas.com
 remoteHostIpa: 3scale-admin.apiipa.usiminas.com 
-ipa: false
-cub: true
+ipa: true
+cub: false
 promote: true
 backend: 
   <proxy>
