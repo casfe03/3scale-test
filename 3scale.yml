@@ -1,10 +1,10 @@
-serviceName: serviceusiminas1_hml
-applicationPlanName: aplicationplanusiminas1_hml
-applicationName: aplicationusiminas1_hml
+serviceName: testecubipaservice1
+applicationPlanName: testecubipaaplicationplan1
+applicationName: testecubipaaplication1
 remoteHostCub: hml-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
 remoteHostIpa: hml-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
-ipa: false
-cub: true
+ipa: true
+cub: false
 promote: true
 backend: 
   <proxy>
