@@ -1,6 +1,6 @@
-serviceName: testecubipaservice
-applicationPlanName: testecubipaaplicationplan
-applicationName: testecubipaaplication
+serviceName: testecubipaservice1
+applicationPlanName: testecubipaaplicationplan1
+applicationName: testecubipaaplication1
 remoteHostCub: 3scale-admin.apicub.usiminas.com
 remoteHostIpa: 3scale-admin.apiipa.usiminas.com 
 ipa: true
