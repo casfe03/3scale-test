@@ -1,9 +1,8 @@
-serviceName: testecubipaservice2
-applicationPlanName: testecubipaaplicationplan2
-applicationName: testecubipaaplication2
-remoteHostCub: xxx3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
-remoteHostIpa: 3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
-
+serviceName: testecubipaservice3
+applicationPlanName: testecubipaaplicationplan3
+applicationName: testecubipaaplication3
+remoteHostCub: https://3scale-admin.apicub.usiminas.com
+remoteHostIpa: https://3scale-admin.apiipa.usiminas.com 
 ipa: true
 cub: true
 promote: true
