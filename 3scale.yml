@@ -2,8 +2,8 @@ serviceName: testecubipaservice2
 applicationPlanName: testecubipaaplicationplan2
 applicationName: testecubipaaplication2
 remoteHostCub: xxx3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
-remoteHostIpa: 3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.comtoolBoxOptions 
-toolBoxOptions: " -k "
+remoteHostIpa: 3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
+
 ipa: true
 cub: false
 promote: true
