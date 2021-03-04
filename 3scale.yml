@@ -5,7 +5,7 @@ remoteHostCub: xxx3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
 remoteHostIpa: 3scale-admin.apps.usiminastest.lab.upshift.rdu2.redhat.com
 
 ipa: true
-cub: false
+cub: true
 promote: true
 backend: 
   <proxy>
