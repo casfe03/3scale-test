@@ -1,5 +1,5 @@
 ipa: true
-cub: false
+cub: true
 promote: true
 backend: 
   api_backend: https://backendtestedeupdate.com.br:443
