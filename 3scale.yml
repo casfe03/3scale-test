@@ -1,8 +1,8 @@
-serviceName: serviceusiminas24
-applicationPlanName: aplicationplanusiminas24
-applicationName: aplicationusiminas24
-ipa: false
-cub: true
+serviceName: testecubipaservice1
+applicationPlanName: testecubipaaplicationplan1
+applicationName: testecubipaaplication1
+ipa: true
+cub: false
 promote: true
 backend: 
   <proxy>
