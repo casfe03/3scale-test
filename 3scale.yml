@@ -2,4 +2,4 @@ ipa: true
 cub: true
 promote: true
 backend: 
-  api_backend: https://backendtestedeupdate.com.br:443
+  api_backend: https://portal-usiminas.com
