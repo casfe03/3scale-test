@@ -1,5 +1,17 @@
 ipa: true
-cub: false
+cub: true
 promote: true
-backend: 
-  api_backend: https://portal-usiminas.com
+
+ipa:
+  backend: 
+    sandboxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
+    api_backend: https://portal-usiminas.com
+    endpoint: https://portal-usiminas.apiipa.usiminas.com:443
+
+cub:
+  backend: 
+    sandboxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
+    api_backend: https://portal-usiminas.com
+    endpoint: https://portal-usiminas.apiipa.usiminas.com:443
+
+                
