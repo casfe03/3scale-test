@@ -1,7 +1,7 @@
 ipa: false
 cub: true
 promote: true
-
+toolBoxOptions: " -k "
 ipa:
   backend: 
     sandBoxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
