@@ -4,14 +4,14 @@ promote: true
 
 ipa:
   backend: 
-    sandboxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
-    api_backend: https://portal-usiminas.com
+    sandBoxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
+    apiBackend: https://portal-usiminas.com
     endpoint: https://portal-usiminas.apiipa.usiminas.com:443
 
 cub:
   backend: 
-    sandboxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
-    api_backend: https://portal-usiminas.com
+    sandBoxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
+    apiBackend: https://portal-usiminas.com
     endpoint: https://portal-usiminas.apiipa.usiminas.com:443
 
                 
