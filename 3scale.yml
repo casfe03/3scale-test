@@ -10,6 +10,6 @@ ipa:
 
 cub:
   backend: 
-    sandBoxEndpoint: https://portal-usiminas-stg.apiipa.usiminas.com:443
+    sandBoxEndpoint: https://portal-usiminas-stg.apicub.usiminas.com:443
     apiBackend: https://portal-usiminas.com
-    endpoint: https://portal-usiminas.apiipa.usiminas.com:443
+    endpoint: https://portal-usiminas.apicub.usiminas.com:443
